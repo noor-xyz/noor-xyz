@@ -51,13 +51,13 @@ A gamified technical-learning platform designed to make learning more engaging t
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/noor-xyz/First-repository">First Repository</a>
+### <a href="https://github.com/noor-xyz/FlowNova">FlowNova</a>
 
-Where my GitHub journey began — a simple first project and the starting point for learning version control.
+A project in my portfolio focused on building and exploring practical software experiences.
 
-**Exploring**
+**Project repository**
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="30" alt="Git and GitHub">
+<a href="https://github.com/noor-xyz/FlowNova"><img src="https://img.shields.io/badge/Explore-FlowNova-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore FlowNova"></a>
 
 </td>
 </tr>
